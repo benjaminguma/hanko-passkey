@@ -1,0 +1,18 @@
+[
+	{
+		"aud": ["localhost"],
+		"cred": "WpaMZgP10iebxoTc166yxYRuMfY",
+		"exp": 1725721332,
+		"iat": 1725721032,
+		"sub": "1"
+	},
+	{
+		"alg": "RS256",
+		"kid": "17e55a69-ff8b-4d70-b3a8-37bf8292d733",
+		"typ": "JWT"
+	},
+
+	{
+		"token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjE3ZTU1YTY5LWZmOGItNGQ3MC1iM2E4LTM3YmY4MjkyZDczMyIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsibG9jYWxob3N0Il0sImNyZWQiOiJXcGFNWmdQMTBpZWJ4b1RjMTY2eXhZUnVNZlkiLCJleHAiOjE3MjU3MjEzMzIsImlhdCI6MTcyNTcyMTAzMiwic3ViIjoiMSJ9.llIhBJzQ49S_76zhZCzko5DR9Rca7p9uwi9HAg2KIO-E-nhNiFrIbthtxfCE7SHAZsdFHlrsefKMh0PgclBPJhyI0aMgQseakR26FV-C0Ky_x6LSTXDde-bdHkyQoITfRoYJc3i_A262PUd1iJ2aqorisbBackyhIL998zfz2pY4aUoRUVf2LhOWBf9CsAbafRTyDWqqqQc90Kh96H05ofzKjoI6mxO5xJxUH82P3MsUODFg086Sa4ZgrNEGep9QEj-rvBucU51GQE3AY7Y67_w-fOElEUyqjVKBa6p_dT92SjV_b2AOwXb9XRzju4_g-HOWJf8meK9Nd-guc1W6A60fTAx5O_MhkslXEAiiJNCgNl3VeOiSVVI-LTXg02eykqtp0lCrzzxgy2wY732U5iDPfgrIy-cZIME34jOkKTLtHOqMWMxB5xBZx12zkKEvZLFu5bjNTDSQmZ-5meWCeYJBQ0JHwmVxwLxe_j_wYDY7EQ5V7Zcok7XmjrUid3yfb1L7ofBDGyreJbPHi-efFlzfpgAuqJzdj_dhJgxWM0ryNsBRCNTFH2Qas4Hr8re5eBPmYbnXQFs-GKeDdy7i-f6Vgh-NyB2zOaQJrnmcuxEaCb90YCdFFRclQeIrs6E5kl0gprG1QRHFmFKhr2uBkMWy2KB2NRIXg5THrlJ2vPc"
+	}
+]
